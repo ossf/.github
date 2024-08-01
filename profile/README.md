@@ -1,7 +1,7 @@
 
 ![OpenSSFLogo](https://github.com/ossf/.github/assets/51727488/db7bcdb5-b7f8-44a7-a374-83751dd9175a)
 
-[OpenSSF](https://openssf.org/) is committed to collaboration and working both upstream and with existing communities to advance open source security for all.
+[OpenSSF](https://openssf.org/) is committed to collaboration and working both upstream and with existing communities to advance open source security for all
 
 OpenSSF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/).
 
