@@ -3,7 +3,7 @@
 
 [OpenSSF](https://openssf.org/) is committed to working both upstream and with existing communities to advance open source security for all.
 
-We foster collaboration, establish best practices, and develop innovative solutions to secure the development, maintenance, and consumption of open source software. OpenSSF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/).
+We foster collaboration, establish best practices, and develop innovative solutions to secure the development, maintenance, and consumption of open source software. OpenSSF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/). 
 
 - Visit our Projects page (https://openssf.org/projects/)
 - Join the Community (https://github.com/ossf/community)
