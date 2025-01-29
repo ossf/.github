@@ -1,12 +1,25 @@
-
-![OpenSSFLogo](https://github.com/ossf/.github/assets/51727488/db7bcdb5-b7f8-44a7-a374-83751dd9175a)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ossf/artwork/blob/master/openssf/horizontal/white/openssf-horizontal-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ossf/artwork/blob/master/openssf/horizontal/color/openssf-horizontal-color.png">
+  <img alt="OpenSSF Logo" src="https://github.com/ossf/artwork/blob/master/openssf/horizontal/color/openssf-horizontal-color.png">
+</picture>
 
 [OpenSSF](https://openssf.org/) is committed to working both upstream and with existing communities to advance open source security for all.
 
 We foster collaboration, establish best practices, and develop innovative solutions to secure the development, maintenance, and consumption of open source software. OpenSSF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/). 
 
 - Visit our Projects page (https://openssf.org/projects/)
-- Join the Community (https://github.com/ossf/community)
+
+## Working Groups:
+- [AI/ML Security](https://github.com/ossf/ai-ml-security) - explore the security risks associated with AI and ML and their impact on open source
+- [Diversity, Equity & Inclusion](https://github.com/ossf/wg-dei) - foster a more diverse and inclusive cybersecurity workforce
+- [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers) — provide awareness, education, and guidance about security best practices
+- [Global Cyber Policy](https://github.com/ossf/wg-globalcyberpolicy) - collaborate on cybersecurity-related legislation, frameworks, and standards
+- [Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects) — identify and help secure critical open source projects
+- [Securing Software Repositories](https://github.com/ossf/wg-securing-software-repos) — strengthen the security posture of software repositories
+- [Security Tooling](https://github.com/ossf/wg-security-tooling) — identify and provide state of the art, globally accessible security tools
+- [Supply Chain Integrity](https://github.com/ossf/wg-supply-chain-integrity) — ensure the provenance of open source code
+- [Vulnerability Disclosures](https://github.com/ossf/wg-vulnerability-disclosures) — enable efficient vulnerability reporting and remediation
 
 For any questions, concerns, reports, etc., please email operations@openssf.org.
 
