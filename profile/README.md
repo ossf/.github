@@ -26,7 +26,7 @@ For any questions, concerns, reports, etc., please email operations@openssf.org.
 ## Get Involved
 
 - Join the [OpenSSF Slack](http://slack.openssf.org/)
-- Subscribe to the [OpenSSF monthly newsletter] (https://openssf.org/sign-up/)
+- Subscribe to the [OpenSSF monthly newsletter](https://openssf.org/sign-up/)
 - Join one of the [OpenSSF Mailing Lists](https://lists.openssf.org/g/main/subgroups)
 - Attend Working Group, Special Interest Group (SIG), and Project meetings, which can be found on our [Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - For more ways to participate, visit our [Get Involved page](https://openssf.org/getinvolved/)
