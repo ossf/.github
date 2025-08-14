@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ossf/artwork/blob/master/openssf/horizontal/white/openssf-horizontal-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ossf/artwork/blob/master/openssf/horizontal/color/openssf-horizontal-color.png">
-  <img alt="OpenSSF Logo" src="https://github.com/ossf/artwork/blob/master/openssf/horizontal/color/openssf-horizontal-color.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ossf/artwork/raw/main/openssf/horizontal/white/openssf-horizontal-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ossf/artwork/raw/main/openssf/horizontal/color/openssf-horizontal-color.png">
+  <img alt="OpenSSF Logo" src="https://github.com/ossf/artwork/raw/main/openssf/horizontal/color/openssf-horizontal-color.png">
 </picture>
 
 [OpenSSF](https://openssf.org/) is committed to working both upstream and with existing communities to advance open source security for all.
