@@ -12,7 +12,7 @@ We foster collaboration, establish best practices, and develop innovative soluti
 
 ## Working Groups:
 - [AI/ML Security](https://github.com/ossf/ai-ml-security) - explore the security risks associated with AI and ML and their impact on open source
-- [Diversity, Equity & Inclusion](https://github.com/ossf/wg-dei) - foster a more diverse and inclusive cybersecurity workforce
+- [Belonging, Empowerment, Allyship, & Representation](https://github.com/ossf/wg-bear) - foster a more diverse and inclusive cybersecurity workforce
 - [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers) — provide awareness, education, and guidance about security best practices
 - [Global Cyber Policy](https://github.com/ossf/wg-globalcyberpolicy) - collaborate on cybersecurity-related legislation, frameworks, and standards
 - [Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects) — identify and help secure critical open source projects
